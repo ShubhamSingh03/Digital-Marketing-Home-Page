@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Digital Marketing Home Page]() was built using Semantic HTML and CSS. While building this project I learnt more about **flexbox** and **positions**. Also used various Css properties like **box-shadow**, border-radius, margins, etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Digital Marketing Home Page](https://digimarket-page.netlify.app/) was built using Semantic HTML and CSS. While building this project I learnt more about **flexbox** and **positions**. Also used various Css properties like **box-shadow**, border-radius, margins, etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://digimarket-page.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/U2P9X5GsnDY)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Digital-Marketing-Home-Page)
 
 ***
 ### Built With 
@@ -64,19 +64,16 @@ This project [Digital Marketing Home Page]() was built using Semantic HTML and C
 <br>
 
 ### Checkout Portfolio & Other Projects
-<br>
 
 #### [Personal Portfolio]()
-
 
 #### [Findcoder Profile]()
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
 ***
 ***
 [go to top](#digital-marketing-home-page)
